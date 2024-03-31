@@ -1,5 +1,3 @@
-"# Module-3-Mini-Project-Contact-Management-System" 
-
 The Contact Management System stores a list of contacts for informational purposes. The CMS stores the following information for each contact: full name, e-mail address, phone number, and address.
 
 The main screen of the CMS offers the user 7 different options:
